@@ -1,9 +1,13 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class setIdentIcon : MonoBehaviour {
+public class sample : MonoBehaviour {
 
+    private void Start()
+    {
+       set_texture("0xdcc47176a2afee39dbf175e22e46a8de38fd0524");
+    }
 
     public void set_texture(string address)
     {
