@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class setIdentIcon : MonoBehaviour {
+public class sample : MonoBehaviour {
 
 
     public void set_texture(string address)
