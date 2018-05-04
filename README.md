@@ -1,1 +1,3 @@
-# blockies_for_unity
+# blockies_for_unity3D
+
+Unity3Dでblockiesを使うためのライブラリ
